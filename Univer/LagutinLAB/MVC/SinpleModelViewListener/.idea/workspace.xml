@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffcf6c39-ce2a-44c7-aef2-ce2f0bd6570a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SinpleModelViewListener" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SinpleModelViewListener" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SinpleModelViewListener" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="application" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZJEEP1JWli4LLtUHloRshq22rw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration name="SinpleModelViewListener [run]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SinpleModelViewListener [run]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffcf6c39-ce2a-44c7-aef2-ce2f0bd6570a" name="Default Changelist" comment="" />
+      <created>1584548684407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584548684407</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1800" height="2" key="GridCell.Tab.0.bottom" timestamp="1584559808996">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state width="1800" height="2" key="GridCell.Tab.0.bottom/74.0.1846.1080@74.0.1846.1080" timestamp="1584559808996" />
+    <state width="1800" height="2" key="GridCell.Tab.0.center" timestamp="1584559808996">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state width="1800" height="2" key="GridCell.Tab.0.center/74.0.1846.1080@74.0.1846.1080" timestamp="1584559808996" />
+    <state width="1800" height="2" key="GridCell.Tab.0.left" timestamp="1584559808996">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state width="1800" height="2" key="GridCell.Tab.0.left/74.0.1846.1080@74.0.1846.1080" timestamp="1584559808996" />
+    <state width="1800" height="2" key="GridCell.Tab.0.right" timestamp="1584559808996">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state width="1800" height="2" key="GridCell.Tab.0.right/74.0.1846.1080@74.0.1846.1080" timestamp="1584559808996" />
+    <state x="493" y="175" width="1007" height="771" key="SettingsEditor" timestamp="1584557823997">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state x="493" y="175" width="1007" height="771" key="SettingsEditor/74.0.1846.1080@74.0.1846.1080" timestamp="1584557823997" />
+    <state x="455" y="111" key="new project wizard" timestamp="1584549744339">
+      <screen x="74" y="0" width="1846" height="1080" />
+    </state>
+    <state x="455" y="111" key="new project wizard/74.0.1846.1080@74.0.1846.1080" timestamp="1584549744339" />
+  </component>
+</project>
